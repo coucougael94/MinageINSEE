@@ -239,7 +239,7 @@ void WeatherRetriever::requestWeatherData(const DeathRecord& record)
     query.addQueryItem("hourly", "wind_direction_10m,wind_direction_100m,temperature_2m,relative_humidity_2m,dewpoint_2m,rain,surface_pressure,et0_fao_evapotranspiration,vapour_pressure_deficit,wind_speed_10m,wind_speed_100m,wind_gusts_10m,cape");
 
     query.addQueryItem("timezone", "Europe/Paris");
-    query.addQueryItem("apikey", "3d9ZUYoJkANz96Or");
+    query.addQueryItem("apikey", "");
 
     QUrl url(baseUrl);
     url.setQuery(query);
