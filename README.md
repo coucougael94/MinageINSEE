@@ -1,2 +1,2 @@
 # MinageINSEE
-Deces X Emissaire : via retro-trajectoire météo de chaque lieu des 600 000 mort francais en 2019 (INSEE), minage des pires configuration météo menant à la mort. Croisement avec les incinérateurs, crématoriums, autres et ensemble.
+Deces X Emissaire : météo 600 000 morts francais en 2019 (INSEE), analyse croisée avec les installations urbaines et industriels type incinérateurs, crématoriums, éoliennes et ensemble.
