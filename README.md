@@ -3,5 +3,5 @@ Deces X Emissaire : météo 600 000 morts francais en 2019 (INSEE), analyse croi
 
 
 Les branches correspondent aux sous-projets associés :
-CxW : Croisements Weather
+CxW : Croisements Weather, 
 WR : WeatherRetriever : récupère la météo (open-meteo) associé aux localisations deces / INSEE.
